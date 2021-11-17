@@ -11,19 +11,19 @@ Para começarmos uma varredura pela **CLI** deveremos utilizar o comando
 
 `node index.js "https://URL.com/"`
 
-![image-20211114133004515](/Users/franciscoamaral/Library/Application Support/typora-user-images/image-20211114133004515.png)
+![node](/Users/franciscoamaral/Desktop/web-scrapping-tagsHtml/public/node.png)
 
 - O retorno será um output na cli trazendo todas as tags html com a contagem de cada e também um output do JSON com o detalhamento de cada tag e seus respetivos aninhamentos.
 
-<img src="/Users/franciscoamaral/Library/Application Support/typora-user-images/image-20211114133558000.png" alt="image-20211114133558000" style="zoom:80%;" />
-
-
+![outputTerminal](/Users/franciscoamaral/Desktop/web-scrapping-tagsHtml/public/outputTerminal.png)
 
 - Também será gerado dois arquivos nas pastas **HTMLS** e **JSONS**, na pasta HTMLS teremos um arquivo .html com a cópia de todo o código gerado através do web scrapping e na JSONS um arquivo .json com os dados de todas as tags e os seus devidos aninhamentos.
 
+![tree data console](/Users/franciscoamaral/Desktop/web-scrapping-tagsHtml/public/tree dataa.png)
 
 
-![image-20211114134126812](/Users/franciscoamaral/Library/Application Support/typora-user-images/image-20211114134126812.png)  ![image-20211114134209778](/Users/franciscoamaral/Library/Application Support/typora-user-images/image-20211114134209778.png)
+
+
 
 ### Raciocínio para obtenção de resultado
 
