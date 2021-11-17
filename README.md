@@ -11,15 +11,15 @@ Para começarmos uma varredura pela **CLI** deveremos utilizar o comando
 
 `node index.js "https://URL.com/"`
 
-![node](./public/node.png)
+![node](/public/node.png)
 
 - O retorno será um output na cli trazendo todas as tags html com a contagem de cada e também um output do JSON com o detalhamento de cada tag e seus respetivos aninhamentos.
 
-![outputTerminal](./public/outputTerminal.png)
+![outputTerminal](/public/outputTerminal.png)
 
 - Também será gerado dois arquivos nas pastas **HTMLS** e **JSONS**, na pasta HTMLS teremos um arquivo .html com a cópia de todo o código gerado através do web scrapping e na JSONS um arquivo .json com os dados de todas as tags e os seus devidos aninhamentos.
 
-![treeData](./public/tree_dataa.png)
+![treeData](/public/tree_dataa.png)
 
 
 
